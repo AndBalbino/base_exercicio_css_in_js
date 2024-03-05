@@ -10,7 +10,7 @@ const Formulario = styled.form`
   display: flex;
   align-items: center;
 
-  ::before {
+  &::before {
     position: absolute;
     top: 0;
     left: 0;
